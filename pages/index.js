@@ -36,6 +36,7 @@ export default function Home() {
       <Head>
         <title>Politik</title>
         <link rel="icon" href="/politik.png" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
 
       <main className={styles.main}>
